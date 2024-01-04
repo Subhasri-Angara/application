@@ -1,1 +1,2 @@
 This is file C
+Changing file from the local repository
